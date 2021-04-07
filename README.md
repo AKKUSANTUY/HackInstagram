@@ -8,8 +8,8 @@ pip install argparse requests PySocks asyncio proxybroker
   
   now run the script
   eg: python hackinsta.py Username passwords.txt
-  $ git clone https://github.com/alireza310/Hackinstagram
-> Cloning into `alireza310/Hackinstagram`...
+  $ git clone https://github.com/AKKUSANTUY/HackInstagram
+> Cloning into `AKKUSANTUY/Hackinstagram`...
 > remote: Counting objects: 10, done.
 > remote: Compressing objects: 100% (8/8), done.
 > remove: Total 10 (delta 1), reused 10 (delta 1)
